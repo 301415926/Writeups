@@ -2,9 +2,9 @@
 
 ##  Steps
 
-- Step 1
+- Step 1 查找：tcp contains "flag"
 
-- Step 2
+- Step 2  flag{}
 
 
 
